@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--FSS Positions-->  
+  <Position Name="BICC_FSS" Type="ASD" DefaultCenter="+773807.000-0314524.000" DefaultRange="2800">
+  <Sectors>
+    <Sector Name="CC" />
+  </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="BICC Area" />
+      <Map Name="Coast" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIKF" />
+      <Airport Name="BIRK" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Iceland Radio</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+  <Position Name="BGGL_FSS" Type="ASD" DefaultCenter="+743800.000-0410000.000" DefaultRange="4000">
+  <Sectors>
+    <Sector Name="SIS" />
+  </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="BGGL Area" />
+      <Map Name="Coast" />
+      <Map Name="BGTL Airspace" />
+      <Map Name="BGSF Airspace" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIKF" />
+      <Airport Name="BIRK" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Iceland Radio</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+  <!--CTR Positions-->
+  <Group Name="BIRD">
+  <Position Name="BIRD_1_CTR" Type="ASD" DefaultCenter="+654040.000-0290412.000" DefaultRange="1900">
+  <Sectors>
+    <Sector Name="S1" />
+    <Sector Name="S2" />
+    <Sector Name="S3" />
+    <Sector Name="E1" />
+    <Sector Name="E2" />
+    <Sector Name="W1" />
+  </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FAXI TMA" />
+      <Map Name="BIAR TMA" />
+      <Map Name="Coast" />
+      <Map Name="Upper Sectors" />
+      <Map Name="BGSF Airspace" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIKF" />
+      <Airport Name="BIRK" />
+      <Airport Name="EKVG" />
+      <Airport Name="BIAR" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Reykjavik Control</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+  <Position Name="BIRD_2_CTR" Type="ASD" DefaultCenter="+644130.000-0201628.000" DefaultRange="980">
+  <Sectors>
+    <Sector Name="S2" />
+  </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="Coast" />
+      <Map Name="Upper Sectors" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIKF" />
+      <Airport Name="BIRK" />
+      <Airport Name="BIAR" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Reykjavik Control</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+<Position Name="BIRD_3_CTR" Type="ASD" DefaultCenter="+644130.000-0201628.000" DefaultRange="980">
+  <Sectors>
+    <Sector Name="S3" />
+  </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="Coast" />
+      <Map Name="Upper Sectors" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIKF" />
+      <Airport Name="BIRK" />
+      <Airport Name="BIAR" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Reykjavik Control</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+<Position Name="BIRD_4_CTR" Type="ASD" DefaultCenter="+635631.000-0060337.000" DefaultRange="800">
+  <Sectors>
+    <Sector Name="E1" />
+    <Sector Name="E2" />
+  </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="Coast" />
+      <Map Name="Upper Sectors" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="EKVG" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Reykjavik Control</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+<Position Name="BIRD_5_CTR" Type="ASD" DefaultCenter="+635631.000-0060337.000" DefaultRange="800">
+  <Sectors>
+    <Sector Name="E2" />
+  </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="Coast" />
+      <Map Name="Upper Sectors" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="EKVG" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Reykjavik Control</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+<Position Name="BIRD_6_CTR" Type="ASD" DefaultCenter="+664124.000-0445602.000" DefaultRange="1400">
+  <Sectors>
+    <Sector Name="W1" />
+  </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="Coast" />
+      <Map Name="Upper Sectors" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BGSF" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Reykjavik Control</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+  </Group>
+
+  <!--FAXI Positions-->
+  <Group Name="FAXI Area">
+  <Position Name="KEF APP" Type="ASD" DefaultCenter="+6400.000-02239.000" DefaultRange="250">
+    <Sectors>
+      <Sector Name="KF" />
+    </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FAXI TMA" />
+      <Map Name="KEF CTR" />
+      <Map Name="Coast" />
+      <Map Name="KF_RWY10" />
+      <Map Name="KF_RWY28" />
+      <Map Name="KF_RWY01" />
+      <Map Name="KF_RWY19" />
+      <Map Name="RK_RWY13" />
+      <Map Name="RK_RWY31" />
+      <Map Name="RK_RWY01" />
+      <Map Name="RK_RWY19" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIKF" />
+      <Airport Name="BIRK" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Keflavik Approach</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+  
+    <Position Name="RKV APP" Type="ASD" DefaultCenter="+64.13-021.940556" DefaultRange="200">
+    <Sectors>
+      <Sector Name="RK" />
+    </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FAXI TMA" />
+      <Map Name="KEF CTR" />
+      <Map Name="Coast" />
+      <Map Name="RK_RWY13" />
+      <Map Name="RK_RWY31" />
+      <Map Name="RK_RWY01" />
+      <Map Name="RK_RWY19" />
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIRK" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Reykjavik Approach</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+      <Position Name="RKV TWR" Type="ASD" DefaultCenter="+64.13-021.940556" DefaultRange="50">
+    <Sectors>
+      <Sector Name="RKT" />
+    </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FAXI TMA" />
+      <Map Name="KEF CTR" />
+      <Map Name="Coast" />
+      <Map Name="RK_RWY13" />
+      <Map Name="RK_RWY31" />
+      <Map Name="RK_RWY01" />
+      <Map Name="RK_RWY19" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="BIKF" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIRK" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Reykjavik Tower</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+    <Position Name="KEF TWR" Type="ASD" DefaultCenter="+6400.000-02239.000" DefaultRange="50">
+    <Sectors>
+      <Sector Name="KFT" />
+    </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FAXI TMA" />
+      <Map Name="KEF CTR" />
+      <Map Name="Coast" />
+      <Map Name="KF_RWY10" />
+      <Map Name="KF_RWY28" />
+      <Map Name="KF_RWY01" />
+      <Map Name="KF_RWY19" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="BIKF" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIKF" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Keflavik Tower</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+    <Position Name="KEF GND" Type="ASD" ASMGCSAirport="BIKF" DefaultCenter="+6400.000-02239.000" DefaultRange="3">
+    <Sectors>
+      <Sector Name="KFG" />
+    </Sectors>
+    <Maps>
+      <Map Name="KF_RWY10" />
+      <Map Name="KF_RWY28" />
+      <Map Name="KF_RWY01" />
+      <Map Name="KF_RWY19" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="BIKF" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BIKF" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Keflavik Ground</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+  </Group>
+
+<Position Name="BIKF" Type="ASMGCS" ASMGCSAirport="BIKF" DefaultCenter="+635857.00-0223725.00" DefaultRange="3" MagneticVariation="-14" Rotation="104">
+    <Maps>
+      <Map Name="ASMGCS_BIKF_TWY" />
+      <Map Name="ASMGCS_BIKF_APR" />
+      <Map Name="ASMGCS_BIKF_BLD" />
+      <Map Name="ASMGCS_BIKF_RWY" />
+      <Map Name="ASMGCS_BIKF_TLN" />
+    </Maps>
+  </Position>
+
+<Position Name="BIRK" Type="ASMGCS" ASMGCSAirport="BIRK" DefaultCenter="+640748.00-0215626.00" DefaultRange="2" MagneticVariation="-14" Rotation="110">
+    <Maps>
+      <Map Name="ASMGCS_BIRK_TWY" />
+      <Map Name="ASMGCS_BIRK_APR" />
+      <Map Name="ASMGCS_BIRK_BLD" />
+      <Map Name="ASMGCS_BIRK_RWY" />
+    </Maps>
+  </Position>
+
+<!--Other Iceland Positions-->
+
+<!--Vagar-->
+
+<Position Name="EKVG" Type="ASMGCS" ASMGCSAirport="EKVG" DefaultCenter="+620348.000-0071634.000" DefaultRange="2" MagneticVariation="-7" Rotation="160">
+    <Maps>
+      <Map Name="ASMGCS_EKVG_APR" />
+      <Map Name="ASMGCS_EKVG_RWY" />
+      <Map Name="ASMGCS_EKVG_TLN" />
+    </Maps>
+</Position>
+
+<!--Greenland Positions-->
+
+<Position Name="SFJ TWR" Type="ASD" DefaultCenter="+670101.090-0504121.570" DefaultRange="50">
+    <Sectors>
+      <Sector Name="SFT" />
+    </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="Coast" />      
+      <Map Name="BGSF Airspace" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="BGSF" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BGSF" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Sondrestrom Tower</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+<Position Name="SFJ APP" Type="ASD" DefaultCenter="+670101.090-0504121.570" DefaultRange="250">
+    <Sectors>
+      <Sector Name="SFA" />
+    </Sectors>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="Coast" />      
+      <Map Name="BGSF Airspace" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ArrivalLists>
+      <Airport Name="BGSF" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Sondrestrom Approach</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
+
+
+</Positions>

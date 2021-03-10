@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+   <Map Type="System" Name="KF_RWY10" Priority="2" Centre="+63.985-022.623611" CustomColourName="Centreline">
+  <Runway Name="10/28">
+    <Threshold Name="10" Position="+63.985039-022.655006" ExtendedCentrelineTrack="270.02" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    <Threshold Name="28" Position="+63.985042-022.592392" />
+  </Runway></Map>
+    <Map Type="System" Name="KF_RWY28" Priority="2" Centre="+63.985-022.623611" CustomColourName="Centreline">
+  <Runway Name="10/28">
+    <Threshold Name="10" Position="+63.985039-022.655006" />
+    <Threshold Name="28" Position="+63.985042-022.592392" ExtendedCentrelineTrack="089.97" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+  </Runway></Map>
+   <Map Type="System" Name="KF_RWY01" Priority="2" Centre="+63.985-022.623611" CustomColourName="Centreline">
+  <Runway Name="01/19">
+    <Threshold Name="01" Position="+63.964478-022.605453" ExtendedCentrelineTrack="180.02" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    <Threshold Name="19" Position="+63.991878-022.605433" />
+  </Runway></Map>
+   <Map Type="System" Name="KF_RWY19" Priority="2" Centre="+63.985-022.623611" CustomColourName="Centreline">
+  <Runway Name="01/19">
+    <Threshold Name="01" Position="+63.964478-022.605453" />
+    <Threshold Name="19" Position="+63.991878-022.605433" ExtendedCentrelineTrack="000.02" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+  </Runway>  
+  </Map>
+  <Map Type="System2" Name="KF_STAR19" Priority="1" CustomColourName="STARs">
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>NASBU</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>TESGO</Point>
+  <Point>ELVUM</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">NASBU/TESGO/ELVUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>DEVUD</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>UNLOS</Point>
+  <Point>ELVUM</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">DEVUD/UNLOS/ELVUM</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>ASRUN</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>KF156</Point>
+  <Point>ELVUM</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">ASRUN/KF156/ELVUM</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>BASLU</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>BETLU</Point>
+  <Point>ELVUM</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">BASLU/BETLU/ELVUM</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>BIRNA</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>KF166</Point>
+  <Point>VALUX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">BIRNA/KF166/VALUX</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>ELDIS</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>NAPAT</Point>
+  <Point>VALUX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">ELDIS/NAPAT/VALUX</Line>
+      <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>GIRUG</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>KULUS</Point>
+  <Point>VALUX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">GIRUG/KULUS/VALUX</Line>
+      <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>INGAN</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>RUVET</Point>
+  <Point>VALUX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">INGAN/RUVET/VALUX</Line>
+  </Map>
+
+  <Map Type="System2" Name="KF_STAR01" Priority="1" CustomColourName="STARs">
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>NASBU</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>ABEXI</Point>
+  <Point>KOPUM</Point>
+  <Point>DEXON</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">NASBU/ABEXI/KOPUM/DEXON</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>DEVUD</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>ABEXI</Point>
+  <Point>KOPUM</Point>
+  <Point>DEXON</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">DEVUD/ABEXI/KOPUM/DEXON</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>ASRUN</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>TIMLU</Point>
+  <Point>DEXON</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">ASRUN/TIMLU/DEXON</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>BASLU</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>ELSIG</Point>
+  <Point>DEXON</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">BASLU/ELSIG/DEXON</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>BIRNA</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>UMTAL</Point>
+  <Point>RENDU</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">BIRNA/UMTAL/RENDU</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>ELDIS</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>VIBER</Point>
+  <Point>RENDU</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">ELDIS/VIBER/RENDU</Line>
+      <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>GIRUG</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>RIKUG</Point>
+  <Point>RENDU</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">GIRUG/RIKUG/RENDU</Line>
+      <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>INGAN</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>NIZOL</Point>
+  <Point>RENDU</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">INGAN/NIZOL/RENDU</Line>
+  </Map>
+
+  <Map Type="System2" Name="KF_STAR10" Priority="1" CustomColourName="STARs">
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>NASBU</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>SOTUG</Point>
+  <Point>KF187</Point>
+  <Point>SONAX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">NASBU/SOTUG/KF187/SONAX</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>DEVUD</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>MEBUN</Point>
+  <Point>KF183</Point>
+  <Point>NONBO</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">DEVUD/MEBUN/KF183/NONBO</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>ASRUN</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>LALTI</Point>
+  <Point>KF187</Point>
+   <Point>SONAX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">ASRUN/LALTI/KF187/SONAX</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>BASLU</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>PEKUS</Point>
+  <Point>KF187</Point>
+  <Point>SONAX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">BASLU/PEKUS/KF187/SONAX</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>BIRNA</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>GEGNI</Point>
+  <Point>KF181</Point>
+  <Point>SONAX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">BIRNA/GEGNI/KF181/SONAX</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>ELDIS</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>ELROS</Point>
+  <Point>VESOX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">ELDIS/ELROS/VESOX</Line>
+      <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>GIRUG</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>BEGOT</Point>
+  <Point>VESOX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">GIRUG/BEGOT/VESOX</Line>
+      <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>INGAN</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>NIZOL</Point>
+  <Point>NONBO</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">INGAN/NIZOL/NONBO</Line>
+  </Map>
+
+  <Map Type="System2" Name="KF_STAR28" Priority="1" CustomColourName="STARs">
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>NASBU</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>SOTUG</Point>
+  <Point>KF187</Point>
+  <Point>SONAX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">NASBU/SOTUG/KF187/SONAX</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>DEVUD</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>MEBUN</Point>
+  <Point>KF183</Point>
+  <Point>NONBO</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">DEVUD/MEBUN/KF183/NONBO</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>ASRUN</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>LALTI</Point>
+  <Point>KF187</Point>
+   <Point>SONAX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">ASRUN/LALTI/KF187/SONAX</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>BASLU</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>PEKUS</Point>
+  <Point>KF187</Point>
+  <Point>SONAX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">BASLU/PEKUS/KF187/SONAX</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>BIRNA</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>GEGNI</Point>
+  <Point>KF181</Point>
+  <Point>SONAX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">BIRNA/GEGNI/KF181/SONAX</Line>
+    <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>ELDIS</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>ELROS</Point>
+  <Point>VESOX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">ELDIS/ELROS/VESOX</Line>
+      <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>GIRUG</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>BEGOT</Point>
+  <Point>VESOX</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">GIRUG/BEGOT/VESOX</Line>
+      <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>INGAN</Point>
+  </Symbol>
+  <Symbol Type="HollowStar">
+  <Point>NIZOL</Point>
+  <Point>NONBO</Point>
+  </Symbol></Label>
+  <Line Pattern="Dashed">INGAN/NIZOL/NONBO</Line>
+</Map>
+
+<!--SIDs-->
+
+<Map Type="System2" Name="KF_SID28" Priority="1" CustomColourName="SIDs">
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>LUTER</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF235/KF236/KF437/ADOVA/KF438/KF253/LUTER</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>OSKUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF235/KF236/KF437/OLGES/KF451/KF439/KF252/OSKUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>PIXUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF235/KF236/KF437/OLGES/KF239/PIXUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>RIMUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF235/KF236/KF437/KF467/RIMUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>DELES</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF255/DELES</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>RALOV</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF255/RALOV</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>SORIR</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF255/KF259/SORIR</Line>
+  </Map>
+
+<Map Type="System2" Name="KF_SID01" Priority="1" CustomColourName="SIDs">
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>LUTER</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF218/KF211/KF419/KF433/KF234/LUTER</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>OSKUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF218/KF211/KF416/KF319/KF417/OSKUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>PIXUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF218/KF211/KOPUM/KF214/KF215/PIXUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>RIMUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF218/KF211/KF453/KF454/KF450/RIMUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>DELES</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF218/KF267/DELES</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>RALOV</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF218/KF267/KF261/RALOV</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>SORIR</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF218/KF266/SORIR</Line>
+  </Map>
+
+<Map Type="System2" Name="KF_SID10" Priority="1" CustomColourName="SIDs">
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>LUTER</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF272/KF452/LUTER</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>OSKUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF272/KF221/KF222/KF223/KF224/OSKUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>PIXUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF272/KF221/KF455/KF456/KF457/PIXUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>RIMUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF272/KF221/KF455/KF459/KF460/KF461/RIMUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>DELES</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF272/KF273/KF445/KF449/DELES</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>RALOV</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF272/KF273/KF445/KF440/KF279/RALOV</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>SORIR</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF272/KF273/KF445/KF440/KF441/SORIR</Line>
+  </Map>
+
+<Map Type="System2" Name="KF_SID19" Priority="1" CustomColourName="SIDs">
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>LUTER</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">+635652.000-0223619.000/KF244/KF462/KF463/KF464/KF248/LUTER</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>OSKUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">+635652.000-0223619.000/KF244/KF466/KF245/KF246/OSKUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>PIXUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">+635652.000-0223619.000/KF241/KF242/KF243/PIXUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>RIMUM</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">+635652.000-0223619.000/KF465/RIMUM</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>DELES</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF285/DELES</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>RALOV</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF285/KF289/RALOV</Line>
+  <Label HasLeader="TRUE">
+  <Symbol Type="SolidTriangle">
+  <Point>SORIR</Point>
+  </Symbol>
+  </Label>
+  <Line Pattern="Dotted">KF285/KF289/SORIR</Line>
+  </Map>
+
+</Maps>

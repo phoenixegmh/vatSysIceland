@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+   <Map Type="System" Name="RK_RWY13" Priority="2" Centre="+63.985-022.623611" CustomColourName="Centreline">
+  <Runway Name="13/31">
+    <Threshold Name="13" Position="+64.132525-021.955356" ExtendedCentrelineTrack="296.31" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    <Threshold Name="31" Position="+64.127894-021.933908" />
+  </Runway></Map>
+    <Map Type="System" Name="RK_RWY31" Priority="2" Centre="+63.985-022.623611" CustomColourName="Centreline">
+  <Runway Name="13/31">
+    <Threshold Name="13" Position="+64.132525-021.955356" />
+    <Threshold Name="31" Position="+64.127894-021.933908" ExtendedCentrelineTrack="116.29" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+  </Runway></Map>
+   <Map Type="System" Name="RK_RWY01" Priority="2" Centre="+63.985-022.623611" CustomColourName="Centreline">
+  <Runway Name="01/19">
+    <Threshold Name="01" Position="+64.122675-021.936333" ExtendedCentrelineTrack="175.27" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    <Threshold Name="19" Position="+64.135967-021.938853" />
+  </Runway></Map>
+   <Map Type="System" Name="RK_RWY19" Priority="2" Centre="+63.985-022.623611" CustomColourName="Centreline">
+  <Runway Name="01/19">
+    <Threshold Name="01" Position="+64.122675-021.936333" />
+    <Threshold Name="19" Position="+64.135967-021.938853" ExtendedCentrelineTrack="355.27" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+  </Runway>  
+  </Map>
+
+<Map Type="System2" Name="RK_STAR19" Priority="1" CustomColourName="STARs">
+<Label HasLeader="TRUE">
+<Symbol Type="SolidTriangle">
+<Point>NASBU</Point>
+</Symbol>
+<Symbol Type="HollowStar">
+<Point>GAKTU</Point>
+<Point>KUSUR</Point>
+</Symbol>
+</Label>
+
+<Label HasLeader="TRUE">
+<Line Pattern="Dashed">NASBU/GAKTU/KUSUR</Line>
+<Symbol Type="DotFillCircle">
+<Point Name="VM">+632359.00-0201718.00</Point><!--VM NDB. Defined as points due to multiple NDBs with same name-->
+</Symbol>
+<Symbol Type="HollowStar">
+<Point>GAKTU</Point>
+<Point>KUSUR</Point>
+</Symbol>
+</Label>
+
+<Label HasLeader="TRUE">
+<Line Pattern="Dashed">+632359.00-0201718.00/GAKTU/KUSUR</Line>
+<Symbol Type="DotFillCircle">
+<Point>RH</Point>
+</Symbol>
+<Symbol Type="HollowStar">
+<Point>TERTU</Point>
+<Point>KUSUR</Point>
+</Symbol>
+</Label>
+
+<Label HasLeader="TRUE">
+<Line Pattern="Dashed">RH/TERTU/KUSUR</Line>
+<Symbol Type="SolidTriangle">
+<Point>TIBRA</Point>
+</Symbol>
+<Symbol Type="HollowStar">
+<Point>KUSUR</Point>
+</Symbol>
+</Label>
+
+<Label HasLeader="TRUE">
+<Line Pattern="Dashed">TIBRA/KUSUR</Line>
+<Symbol Type="SolidTriangle">
+<Point>MYRAR</Point>
+</Symbol>
+<Symbol Type="HollowStar">
+<Point>EXINU</Point>
+</Symbol>
+</Label>
+
+<Label HasLeader="TRUE">
+<Line Pattern="Dashed">MYRAR/EXINU</Line>
+<Symbol Type="SolidTriangle">
+<Point>INGAN</Point>
+</Symbol>
+<Symbol Type="HollowStar">
+<Point>RK401</Point>
+<Point>EXINU</Point>
+</Symbol>
+</Label>
+<Line Pattern="Dashed">INGAN/RK401/KUSUR</Line>
+</Map>
+
+</Maps>

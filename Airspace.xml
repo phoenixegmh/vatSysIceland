@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SystemRunways>
+		<Airport Name="BIAR">
+			<Runway Name="01" DataRunway="01">
+       <SID Name="[A-Z]{4}\dA" OpDataFlag="X" />
+       <SID Name="[A-Z]{3}\dB" />
+      </Runway>
+			<Runway Name="19" DataRunway="19">
+       <STAR Name="[A-Z]{4}\dM" ApproachName="ILS"/>
+       <STAR Name="[A-Z]{4}\dN" ApproachName="RNPY"/>
+       <SID Name="[A-Z]{4}\dD" OpDataFlag="X" />
+       <SID Name="[A-Z]{4}\dE" />
+      </Runway>
+		</Airport>
+    <Airport Name="BIKF">
+			<Runway Name="10" DataRunway="10">
+       <STAR Name="[A-Z]{4}\dM" ApproachName="ILSZ"/>
+       <SID Name="[A-Z]{4}\dB" />
+      </Runway>
+			<Runway Name="28" DataRunway="28">
+       <STAR Name="[A-Z]{4}\dH" ApproachName="ILSZ"/>
+       <SID Name="[A-Z]{4}\dD" />
+      </Runway>
+			<Runway Name="01" DataRunway="01">
+       <STAR Name="[A-Z]{4}\dN" ApproachName="ILSZ"/>
+       <SID Name="[A-Z]{4}\dA" />
+      </Runway>
+			<Runway Name="19" DataRunway="19">
+       <STAR Name="[A-Z]{4}\dK" ApproachName="ILSZ"/>
+       <SID Name="[A-Z]{4}\dC" />
+      </Runway>
+		</Airport>
+    <Airport Name="BIRK">
+			<Runway Name="13" DataRunway="13">
+       <SID Name="EL4" />
+       <SID Name="KFV4" />
+       <SID Name="MYRAR4" />
+       <SID Name="RH4A" />
+      </Runway>
+			<Runway Name="31" DataRunway="31">
+       <SID Name="EL3" />
+       <SID Name="KFV3" />
+       <SID Name="MYRAR3" />
+       <SID Name="RH3A" />
+      </Runway>
+			<Runway Name="01" DataRunway="01">
+       <SID Name="EL1" />
+       <SID Name="KFV1" />
+       <SID Name="MYRAR1" />
+       <SID Name="RH1A" />
+      </Runway>
+			<Runway Name="19" DataRunway="19">
+       <STAR Name="[A-Z]{4}\dN" ApproachName="ILSZ"/>
+       <STAR Name="RH2N" ApproachName="ILSZ"/>
+       <STAR Name="VM1N" ApproachName="ILSZ"/>
+       <SID Name="EL2" />
+       <SID Name="KFV2" />
+       <SID Name="MYRAR2" />
+       <SID Name="RH2A" />
+      </Runway>
+		</Airport>
+	</SystemRunways>
+    <Airports>
+  <Airport ICAO="BGAA" Position="+684318.649-0524705.089" />
+  <Airport ICAO="BGBW" Position="+610938.588-0452532.429" />
+  <Airport ICAO="BGCO" Position="+704435.098-0223902.001" />
+  <Airport ICAO="BGGH" Position="+641127.319-0514041.030" />
+  <Airport ICAO="BGJN" Position="+691435.581-0510325.599" />
+  <Airport ICAO="BGKK" Position="+653424.999-0370724.999" />
+  <Airport ICAO="BGMQ" Position="+652444.870-0525621.908" />
+  <Airport ICAO="BGMV" Position="+721359.998-0235500.001" />
+  <Airport ICAO="BGNO" Position="+813632.399-0164037.801" />
+  <Airport ICAO="BGPT" Position="+620053.049-0494015.369" />
+  <Airport ICAO="BGQQ" Position="+772919.140-0692319.431" />
+  <Airport ICAO="BGSF" Position="+670101.088-0504121.569" />
+  <Airport ICAO="BGSS" Position="+665704.640-0534345.548" />
+  <Airport ICAO="BGTL" Position="+763152.330-0684211.379" />
+  <Airport ICAO="BGUK" Position="+724724.680-0560750.109" />
+  <Airport ICAO="BGUQ" Position="+704403.231-0524146.330" />
+  <Airport ICAO="BIAR" Position="+653924.001-0180418.998" />
+  <Airport ICAO="BIBA" Position="+633321.999-0200814.999" />
+  <Airport ICAO="BIBD" Position="+653829.000-0233245.999" />
+  <Airport ICAO="BIBF" Position="+653059.000-0134817.999" />
+  <Airport ICAO="BIBL" Position="+653841.999-0201715.000" />
+  <Airport ICAO="BIBR" Position="+650431.000-0214801.000" />
+  <Airport ICAO="BIBV" Position="+644724.000-0140122.000" />
+  <Airport ICAO="BIDV" Position="+643839.001-0141658.000" />
+  <Airport ICAO="BIEG" Position="+651659.998-0142405.000" />
+  <Airport ICAO="BIEH" Position="+641443.000-0201802.001" />
+  <Airport ICAO="BIFL" Position="+640834.000-0201933.999" />
+  <Airport ICAO="BIFM" Position="+635228.999-0163827.999" />
+  <Airport ICAO="BIGF" Position="+645935.001-0231313.000" />
+  <Airport ICAO="BIGJ" Position="+655943.000-0211936.998" />
+  <Airport ICAO="BIGR" Position="+663245.999-0180101.999" />
+  <Airport ICAO="BIGS" Position="+653756.999-0160853.998" />
+  <Airport ICAO="BIHE" Position="+651127.999-0161217.999" />
+  <Airport ICAO="BIHI" Position="+645309.999-0192932.999" />
+  <Airport ICAO="BIHK" Position="+654216.999-0214147.000" />
+  <Airport ICAO="BIHL" Position="+635008.998-0202239.000" />
+  <Airport ICAO="BIHN" Position="+641744.001-0151337.999" />
+  <Airport ICAO="BIHU" Position="+655709.000-0172532.998" />
+  <Airport ICAO="BIHZ" Position="+644158.999-0205300.999" />
+  <Airport ICAO="BIIS" Position="+660329.001-0230807.000" />
+  <Airport ICAO="BIKA" Position="+644644.000-0221524.998" />
+  <Airport ICAO="BIKE" Position="+644217.999-0192438.001" />
+  <Airport ICAO="BIKF" Position="+635857.00-0223725.00" />
+  <Airport ICAO="BIKL" Position="+634734.000-0180014.000" />
+  <Airport ICAO="BIKP" Position="+661838.998-0162800.001" />
+  <Airport ICAO="BIKR" Position="+654354.001-0193422.000" />
+  <Airport ICAO="BIMK" Position="+634251.001-0195245.001" />
+  <Airport ICAO="BIMM" Position="+652859.998-0181000.001" />
+  <Airport ICAO="BIMS" Position="+641051.999-0214228.000" />
+  <Airport ICAO="BIND" Position="+644314.001-0180400.001" />
+  <Airport ICAO="BINF" Position="+650754.001-0134451.000" />
+  <Airport ICAO="BIRE" Position="+652706.001-0221234.999" />
+  <Airport ICAO="BIRF" Position="+645441.000-0234923.001" />
+  <Airport ICAO="BIRG" Position="+662423.000-0155505.998" />
+  <Airport ICAO="BIRK" Position="+63.985-022.623611" />
+  <Airport ICAO="BIRL" Position="+653920.998-0165505.001" />
+  <Airport ICAO="BIRS" Position="+655451.001-0222517.000" />
+  <Airport ICAO="BISA" Position="+645031.999-0160211.000" />
+  <Airport ICAO="BISF" Position="+635545.001-0210216.000" />
+  <Airport ICAO="BISI" Position="+660818.240-0185424.818" />
+  <Airport ICAO="BISK" Position="+633101.999-0192921.001" />
+  <Airport ICAO="BISL" Position="+640014.000-0165653.001" />
+  <Airport ICAO="BISP" Position="+643915.001-0182948.998" />
+  <Airport ICAO="BISR" Position="+643803.998-0212915.000" />
+  <Airport ICAO="BISS" Position="+640338.998-0213428.999" />
+  <Airport ICAO="BIST" Position="+650330.999-0224556.001" />
+  <Airport ICAO="BISV" Position="+640656.998-0184659.998" />
+  <Airport ICAO="BITE" Position="+655213.000-0233334.999" />
+  <Airport ICAO="BITM" Position="+634123.999-0193347.001" />
+  <Airport ICAO="BITN" Position="+661305.998-0152004.999" />
+  <Airport ICAO="BIVH" Position="+653324.998-0192541.001" />
+  <Airport ICAO="BIVI" Position="+632518.001-0185317.998" />
+  <Airport ICAO="BIVM" Position="+632529.999-0201645.001" />
+  <Airport ICAO="BIVO" Position="+654314.001-0145102.001" />
+  <Airport ICAO="EKVG" Position="+620349.060-0071637.988" />
+</Airports>
+</Airspace>

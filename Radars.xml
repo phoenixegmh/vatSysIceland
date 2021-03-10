@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Radars>
+  <Radar Name="ASR9 PRI" Type="PRI" Elevation="369" MaxRange="60">
+    <Lat>63.988611</Lat>
+    <Long>-022.586944</Long>
+  </Radar>
+  <Radar Name="ASR9 C" Type="SSR_ModeC" Elevation="369" MaxRange="255">
+    <Lat>63.988611</Lat>
+    <Long>-022.586944</Long>
+  </Radar>
+  <Radar Name="ASR9 S" Type="SSR_ModeS" Elevation="369" MaxRange="255">
+    <Lat>63.988611</Lat>
+    <Long>-022.586944</Long>
+  </Radar>
+  <Radar Name="ASR9 ADS" Type="ADSB" Elevation="369" MaxRange="255">
+    <Lat>63.988611</Lat>
+    <Long>-022.586944</Long>
+  </Radar>
+  <Radar Name="BGAA" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>68.721847</Lat>
+    <Long>-052.784747</Long>
+  </Radar>
+  <Radar Name="BGAA" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>68.721847</Lat>
+    <Long>-052.784747</Long>
+  </Radar>
+  <Radar Name="BGAA" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>68.721847</Lat>
+    <Long>-052.784747</Long>
+  </Radar>
+  <Radar Name="BGAA" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>68.721847</Lat>
+    <Long>-052.784747</Long>
+  </Radar>
+  <Radar Name="BGGH" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>64.324167</Lat>
+    <Long>-050.932222</Long>
+  </Radar>
+  <Radar Name="BGGH" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>64.324167</Lat>
+    <Long>-050.932222</Long>
+  </Radar>
+  <Radar Name="BGGH" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>64.324167</Lat>
+    <Long>-050.932222</Long>
+  </Radar>
+  <Radar Name="BGGH" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>64.324167</Lat>
+    <Long>-050.932222</Long>
+  </Radar>
+  <Radar Name="BGKK" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>65.573611</Lat>
+    <Long>-037.123611</Long>
+  </Radar>
+  <Radar Name="BGKK" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>65.573611</Lat>
+    <Long>-037.123611</Long>
+  </Radar>
+  <Radar Name="BGKK" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>65.573611</Lat>
+    <Long>-037.123611</Long>
+  </Radar>
+  <Radar Name="BGKK" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>65.573611</Lat>
+    <Long>-037.123611</Long>
+  </Radar>
+  <Radar Name="BGSC" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>70.428611</Lat>
+    <Long>-022.138333</Long>
+  </Radar>
+  <Radar Name="BGSC" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>70.428611</Lat>
+    <Long>-022.138333</Long>
+  </Radar>
+  <Radar Name="BGSC" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>70.428611</Lat>
+    <Long>-022.138333</Long>
+  </Radar>
+  <Radar Name="BGSC" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>70.428611</Lat>
+    <Long>-022.138333</Long>
+  </Radar>
+  <Radar Name="BGSF" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>67.016969</Lat>
+    <Long>-050.689325</Long>
+  </Radar>
+  <Radar Name="BGSF" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>67.016969</Lat>
+    <Long>-050.689325</Long>
+  </Radar>
+  <Radar Name="BGSF" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>67.016969</Lat>
+    <Long>-050.689325</Long>
+  </Radar>
+  <Radar Name="BGSF" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>67.016969</Lat>
+    <Long>-050.689325</Long>
+  </Radar>
+  <Radar Name="BLAF" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>63.973333</Lat>
+    <Long>-021.639167</Long>
+  </Radar>
+  <Radar Name="BLAF" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>63.973333</Lat>
+    <Long>-021.639167</Long>
+  </Radar>
+  <Radar Name="BLAF" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>63.973333</Lat>
+    <Long>-021.639167</Long>
+  </Radar>
+  <Radar Name="BLAF" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>63.973333</Lat>
+    <Long>-021.639167</Long>
+  </Radar>
+  <Radar Name="FAE" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>62.068167</Lat>
+    <Long>-007.287936</Long>
+  </Radar>
+  <Radar Name="FAE" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>62.068167</Lat>
+    <Long>-007.287936</Long>
+  </Radar>
+  <Radar Name="FAE" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>62.068167</Lat>
+    <Long>-007.287936</Long>
+  </Radar>
+  <Radar Name="FAE" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>62.068167</Lat>
+    <Long>-007.287936</Long>
+  </Radar>
+  <Radar Name="GUNN" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>66.144444</Lat>
+    <Long>-015.088889</Long>
+  </Radar>
+  <Radar Name="GUNN" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>66.144444</Lat>
+    <Long>-015.088889</Long>
+  </Radar>
+  <Radar Name="GUNN" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>66.144444</Lat>
+    <Long>-015.088889</Long>
+  </Radar>
+  <Radar Name="GUNN" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>66.144444</Lat>
+    <Long>-015.088889</Long>
+  </Radar>
+  <Radar Name="H1" Type="PRI" Elevation="369" MaxRange="60">
+    <Lat>64.15</Lat>
+    <Long>-022.033333</Long>
+  </Radar>
+  <Radar Name="H1" Type="SSR_ModeC" Elevation="369" MaxRange="255">
+    <Lat>64.15</Lat>
+    <Long>-022.033333</Long>
+  </Radar>
+  <Radar Name="H1" Type="SSR_ModeS" Elevation="369" MaxRange="255">
+    <Lat>64.15</Lat>
+    <Long>-022.033333</Long>
+  </Radar>
+  <Radar Name="H1" Type="ADSB" Elevation="369" MaxRange="255">
+    <Lat>64.15</Lat>
+    <Long>-022.033333</Long>
+  </Radar>
+  <Radar Name="H2" Type="PRI" Elevation="663" MaxRange="60">
+    <Lat>64.15</Lat>
+    <Long>-015.083333</Long>
+  </Radar>
+  <Radar Name="H2" Type="SSR_ModeC" Elevation="663" MaxRange="255">
+    <Lat>64.15</Lat>
+    <Long>-015.083333</Long>
+  </Radar>
+  <Radar Name="H2" Type="SSR_ModeS" Elevation="663" MaxRange="255">
+    <Lat>64.15</Lat>
+    <Long>-015.083333</Long>
+  </Radar>
+  <Radar Name="H2" Type="ADSB" Elevation="663" MaxRange="255">
+    <Lat>64.15</Lat>
+    <Long>-015.083333</Long>
+  </Radar>
+  <Radar Name="H3" Type="PRI" Elevation="30" MaxRange="60">
+    <Lat>64.25</Lat>
+    <Long>-015.0</Long>
+  </Radar>
+  <Radar Name="H3" Type="SSR_ModeC" Elevation="30" MaxRange="255">
+    <Lat>64.25</Lat>
+    <Long>-015.0</Long>
+  </Radar>
+  <Radar Name="H3" Type="SSR_ModeS" Elevation="30" MaxRange="255">
+    <Lat>64.25</Lat>
+    <Long>-015.0</Long>
+  </Radar>
+  <Radar Name="H3" Type="ADSB" Elevation="30" MaxRange="255">
+    <Lat>64.25</Lat>
+    <Long>-015.0</Long>
+  </Radar>
+  <Radar Name="H4" Type="PRI" Elevation="800" MaxRange="60">
+    <Lat>62.067808</Lat>
+    <Long>-006.966772</Long>
+  </Radar>
+  <Radar Name="H4" Type="SSR_ModeC" Elevation="800" MaxRange="255">
+    <Lat>62.067808</Lat>
+    <Long>-006.966772</Long>
+  </Radar>
+  <Radar Name="H4" Type="SSR_ModeS" Elevation="800" MaxRange="255">
+    <Lat>62.067808</Lat>
+    <Long>-006.966772</Long>
+  </Radar>
+  <Radar Name="H4" Type="ADSB" Elevation="800" MaxRange="255">
+    <Lat>62.067808</Lat>
+    <Long>-006.966772</Long>
+  </Radar>
+  <Radar Name="HAOXL" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>64.893333</Lat>
+    <Long>-014.062778</Long>
+  </Radar>
+  <Radar Name="HAOXL" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>64.893333</Lat>
+    <Long>-014.062778</Long>
+  </Radar>
+  <Radar Name="HAOXL" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>64.893333</Lat>
+    <Long>-014.062778</Long>
+  </Radar>
+  <Radar Name="HAOXL" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>64.893333</Lat>
+    <Long>-014.062778</Long>
+  </Radar>
+  <Radar Name="KLUB" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>62.230556</Lat>
+    <Long>-006.671111</Long>
+  </Radar>
+  <Radar Name="KLUB" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>62.230556</Lat>
+    <Long>-006.671111</Long>
+  </Radar>
+  <Radar Name="KLUB" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>62.230556</Lat>
+    <Long>-006.671111</Long>
+  </Radar>
+  <Radar Name="KLUB" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>62.230556</Lat>
+    <Long>-006.671111</Long>
+  </Radar>
+  <Radar Name="SPA" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>61.416389</Lat>
+    <Long>-006.733056</Long>
+  </Radar>
+  <Radar Name="SPA" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>61.416389</Lat>
+    <Long>-006.733056</Long>
+  </Radar>
+  <Radar Name="SPA" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>61.416389</Lat>
+    <Long>-006.733056</Long>
+  </Radar>
+  <Radar Name="SPA" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>61.416389</Lat>
+    <Long>-006.733056</Long>
+  </Radar>
+  <Radar Name="SUM" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>59.86796</Lat>
+    <Long>-001.273042</Long>
+  </Radar>
+  <Radar Name="SUM" Type="SSR_ModeC" Elevation="2500" MaxRange="255">
+    <Lat>59.86796</Lat>
+    <Long>-001.273042</Long>
+  </Radar>
+  <Radar Name="SUM" Type="SSR_ModeS" Elevation="2500" MaxRange="255">
+    <Lat>59.86796</Lat>
+    <Long>-001.273042</Long>
+  </Radar>
+  <Radar Name="SUM" Type="ADSB" Elevation="2500" MaxRange="255">
+    <Lat>59.86796</Lat>
+    <Long>-001.273042</Long>
+  </Radar>
+  <Radar Name="THVE" Type="PRI" Elevation="2500" MaxRange="60">
+    <Lat>65.850278</Lat>
+    <Long>-023.721111</Long>
+  </Radar>
+  <Radar Name="THVE" Type="SSR_ModeC" Elevation="2500" MaxRange="60">
+    <Lat>65.850278</Lat>
+    <Long>-023.721111</Long>
+  </Radar>
+  <Radar Name="THVE" Type="SSR_ModeS" Elevation="2500" MaxRange="60">
+    <Lat>65.850278</Lat>
+    <Long>-023.721111</Long>
+  </Radar>
+  <Radar Name="THVE" Type="ADSB" Elevation="2500" MaxRange="60">
+    <Lat>65.850278</Lat>
+    <Long>-023.721111</Long>
+  </Radar>
+</Radars>
