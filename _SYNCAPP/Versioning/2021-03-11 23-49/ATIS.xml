@@ -5,8 +5,8 @@
     <Frequency Airport="BIRK" Frequency="128.100" />
   </Frequencies>
   <Translations>
-    <Translation String="BIKF" Spoken="kɛfla&#x02D0;vik&#x02D0;" Alphabet="IPA" FallbackSpoken="Keff-lar-vick" />
-    <Translation String="BIRK" Spoken="reica&#x02D0;vik&#x02D0;" Alphabet="IPA" FallbackSpoken="Reck-yar-vick" />
+    <Translation String="BIKF" Spoken="Keflavik" />
+    <Translation String="BIRK" Spoken="Reykyavik" />
 
     <Translation String="ATIS" Spoken="information" />
 
