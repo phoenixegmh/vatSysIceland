@@ -342,13 +342,6 @@
     </Maps>
   </Position>
 
-<Position Name="BIAR" Type="ASMGCS" ASMGCSAirport="BIAR" DefaultCenter="+653924.00-0180420.00" DefaultRange="2" MagneticVariation="-12" Rotation="283">
-    <Maps>
-      <Map Name="ASMGCS_BIAR_APR" />
-      <Map Name="ASMGCS_BIAR_RWY" />
-    </Maps>
-  </Position>
-
 <!--Other Iceland Positions-->
 
 <!--Vagar-->

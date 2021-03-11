@@ -8,7 +8,7 @@
     <Volumes>BGGL</Volumes>
   </Sector>
   <Sector FullName="BIRD1" Frequency="119.700" Callsign="BIRD_1_CTR" Name="S1">
-    <Volumes>BIRD1,BIRD2,BIRD3,BIRD4,BIRD5,BIRD6,SFJCTA,SFJTMAA,SFJTMAB,SFJCTR</Volumes>
+    <Volumes>BIRD1,BIRD2,BIRD3,BIRD4,BIRD5,BIRD6</Volumes>
   </Sector>
   <Sector FullName="BIRD2" Frequency="125.700" Callsign="BIRD_2_CTR" Name="S2">
     <Volumes>BIRD2</Volumes>
@@ -23,7 +23,7 @@
     <Volumes>BIRD5</Volumes>
   </Sector>
   <Sector FullName="BIRD6" Frequency="124.400" Callsign="BIRD_6_CTR" Name="W1">
-    <Volumes>BIRD6,SFJCTA,SFJTMAA,SFJTMAB,SFJCTR</Volumes>
+    <Volumes>BIRD6</Volumes>
   </Sector>
   <Sector FullName="Keflavik Approach" Frequency="119.300" Callsign="BIKF_APP" Name="KF">
     <Volumes>KEFAPP,RKVAPP</Volumes>
@@ -41,7 +41,7 @@
        <Volumes>KEFGND</Volumes>
   </Sector>
   <Sector FullName="Akureyri Tower" Frequency="118.200" Callsign="BIAR_TWR" Name="ART">
-       <Volumes>AEYTWR,AEYTWRL</Volumes>
+       <Volumes>AEYTWR</Volumes>
   </Sector>
   <!--Greenland-->
   <Sector FullName="Sondrestrom Approach" Frequency="126.200" Callsign="BGSF_APP" Name="SFA">
