@@ -57,32 +57,4 @@
        <Volumes>BGTLCTR</Volumes>
   </Sector>
   <!--Faroes-->
-  <Sector FullName="Vagar Information" Frequency="124.850" Callsign="EKVG_I_TWR" Name="VGI">
-       <Volumes>EKVGTWR</Volumes>
-  </Sector>  
-  <!--Adjacent Sectors-->
-  <Sector FullName="Murmansk" Frequency="126.900" Callsign="ULMM_CTR" Name="MM">
-       <Volumes>ULMM</Volumes>
-  </Sector>
-  <Sector FullName="Scottish Control" Frequency="135.520" Callsign="SCO_CTR" Name="CO">
-       <Volumes>EGPX</Volumes>
-  </Sector>
-  <Sector FullName="Bodo Oceanic" Frequency="123.170" Callsign="ENOB_CTR" Name="OB">
-       <Volumes>ENOB</Volumes>
-  </Sector>
-  <Sector FullName="Polaris Control" Frequency="121.550" Callsign="ENOR_CTR" Name="OR">
-       <Volumes>ENOR15H,ENOR15L,ENOR16H,ENOR16L</Volumes>
-  </Sector>  
-  <Sector FullName="Polaris Control" Frequency="120.650" Callsign="ENSV_CTR" Name="OR">
-       <Volumes>ENOR15H,ENOR15L,ENOR16H,ENOR16L</Volumes>
-  </Sector>  
-  <Sector FullName="Eurocontrol N Control" Frequency="133.450" Callsign="EURN_FSS" Name="EURN">
-       <Volumes>ENOR15H,ENOR15L,ENOR16H,ENOR16L</Volumes>
-  </Sector>  
-  <Sector FullName="Shanwick" Frequency="131.800" Callsign="EGGX_FSS" Name="GX">
-       <Volumes>ULMM</Volumes>
-  </Sector>
-  <Sector FullName="Gander" Frequency="131.700" Callsign="CZQX_FSS" Name="QX">
-       <Volumes>EGPX</Volumes>
-  </Sector>
 </Sectors>

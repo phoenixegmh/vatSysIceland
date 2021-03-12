@@ -7,9 +7,12 @@
     <NOTAM url="http://api.vateud.net/notams/%ICAO.xml" xmlDataTag="raw" />
   </ProductTypes>
   <Browsers><!--bomw0007-->
-    <AIP url="http://eaip.isavia.is/" />
+    <AIP url="http://www.aip.net.nz/" />
+    <IFIS url="https://www.ifis.airways.co.nz/script/briefing/aerodrome_briefing.asp" />
+    <MetFlight url="http://metflight.metra.co.nz/MetFlight.php" />
+    <MetConnect url="http://www.metconnect.co.nz/metconnect/index.php" />
     <SkyVector url="https://skyvector.com/" />
-    <VATSCAN-CC url="http://cc.vatsim-scandinavia.org/dashboard" />
-    <Callsigns url="http://en.wikipedia.org/wiki/List_of_airline_codes" />
+    <VATNZ url="https://www.vatnz.net/" />
+    <Feedback url="https://www.vatnz.net/feedback/" />
   </Browsers>
 </MET>

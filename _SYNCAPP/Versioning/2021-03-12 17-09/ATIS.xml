@@ -220,6 +220,7 @@
     <Input name="TMP" NameIsSpoken="true" InputType="Edit" />
 	<Input name="DP" NameIsSpoken="true" InputType="Edit" METARField="DewPoint" />
 	<Input name="QNH" NameIsSpoken="true" InputType="Edit" />
+	<Input name="2 THOUSAND FT WIND" NameIsSpoken="true" InputType="Edit" />
      <Input name="OFCW_NOTIFY" value="ATC" InputType="Edit" />
   </Editor>
 </ATIS>
