@@ -28,6 +28,9 @@
   <Sector FullName="Keflavik Approach" Frequency="119.300" Callsign="BIKF_APP" Name="KF">
     <Volumes>KEFAPP,RKVAPP</Volumes>
   </Sector>
+  <Sector FullName="Keflavik Final" Frequency="119.150" Callsign="BIKF_F_APP" Name="KFF">
+    <Volumes>KEFAPP,RKVAPP</Volumes>
+  </Sector>
   <Sector FullName="Reykjavik Approach" Frequency="119.000" Callsign="BIRK_APP" Name="RK">
     <Volumes>RKVAPP,RKVTWR</Volumes>
   </Sector>
@@ -38,6 +41,9 @@
        <Volumes>KEFTWR</Volumes>
   </Sector>
   <Sector FullName="Keflavik Ground" Frequency="118.300" Callsign="BIKF_GND" Name="KFG">
+       <Volumes>KEFGND</Volumes>
+  </Sector>
+  <Sector FullName="Keflavik Delivery" Frequency="121.100" Callsign="BIKF_DEL" Name="KFD">
        <Volumes>KEFGND</Volumes>
   </Sector>
   <Sector FullName="Akureyri Tower" Frequency="118.200" Callsign="BIAR_TWR" Name="ART">
