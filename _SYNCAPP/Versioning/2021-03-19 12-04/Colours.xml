@@ -531,12 +531,4 @@
     <B>95</B>
   </Colour>
  
-    <Colour id="Custom">
-    <Use>MRVA Outline</Use>
-    <Name>MRVA</Name>
-    <R>90</R>
-    <G>87</G>
-    <B>69</B>
-  </Colour>
-
 </Colours>
