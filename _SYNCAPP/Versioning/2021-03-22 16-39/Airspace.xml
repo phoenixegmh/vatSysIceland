@@ -133,20 +133,9 @@
     <Runway Name="21" DataRunway="21" />
     </Airport>
     <Airport Name="BIEG">
-			<Runway Name="04" DataRunway="04">
-       <SID Name="FELLI1A" OpDataFlag="X" />
-       <SID Name="VAD1A" OpDataFlag="X" />
-       <SID Name="VAD1B" OpDataFlag="X" />
-       <STAR Nme="[A-Z]{2}\d" />
-      </Runway>
-			<Runway Name="22" DataRunway="22">
-       <SID Name="FELLI2A" OpDataFlag="X" />
-       <SID Name="VAD2A" OpDataFlag="X" />
-       <SID Name="BRUSI2A" OpDataFlag="X" />
-       <SID Name="ELVUR2A" OpDataFlag="X" />
-       <STAR Nme="[A-Z]{3}\d" />
-      </Runway>
-		</Airport>
+    <Runway Name="04" DataRunway="04" />
+    <Runway Name="22" DataRunway="22" />
+    </Airport>
     <Airport Name="BIGJ">
     <Runway Name="04" DataRunway="04" />
     <Runway Name="22" DataRunway="22" />
@@ -193,14 +182,6 @@
     <Runway Name="04" DataRunway="04" />
     <Runway Name="22" DataRunway="22" />
     </Airport>    
-    <Airport Name="EKVG">
-			<Runway Name="12" DataRunway="12">
-       <SID Name="[A-Z]{4}\dT" OpDataFlag="X" />
-      </Runway>
-			<Runway Name="30" DataRunway="30">
-       <SID Name="[A-Z]{4}\dN" OpDataFlag="X" />
-      </Runway>
-		</Airport>
     </SystemRunways>
     <Airports>
   <Airport ICAO="BGAA" Position="+684318.649-0524705.089" />
