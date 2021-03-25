@@ -134,16 +134,16 @@
     </Airport>
     <Airport Name="BIEG">
 			<Runway Name="04" DataRunway="04">
-       <SID Name="FELLI1A" OpDataFlag="X" />
-       <SID Name="VAD1A" OpDataFlag="X" />
-       <SID Name="VAD1B" OpDataFlag="X" />
+       <SID Name="FELI1A" />
+       <SID Name="VAD1A" />
+       <SID Name="VAD1B" />
        <STAR Nme="[A-Z]{2}\d" />
       </Runway>
 			<Runway Name="22" DataRunway="22">
-       <SID Name="FELLI2A" OpDataFlag="X" />
-       <SID Name="VAD2A" OpDataFlag="X" />
-       <SID Name="BRUSI2A" OpDataFlag="X" />
-       <SID Name="ELVUR2A" OpDataFlag="X" />
+       <SID Name="FELI2A" />
+       <SID Name="VAD2A" />
+       <SID Name="BRUS2A" />
+       <SID Name="ELVU2A" />
        <STAR Nme="[A-Z]{3}\d" />
       </Runway>
 		</Airport>

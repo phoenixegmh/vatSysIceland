@@ -328,6 +328,28 @@
   </Position>
   </Group>
 
+    <Position Name="BIAR TWR" Type="ASD" ASMGCSAirport="BIAR" DefaultCenter="+65.656-018.07166" DefaultRange="130">
+    <Sectors>
+      <Sector Name="ART" />
+    </Sectors>
+    <Maps>
+      <Map Name="BIAR TMA" />
+      <Map Name="GEO" />
+      <Map Name="Coast" />
+      <Map Name="ASMGCS_BIAR_APR" />
+      <Map Name="ASMGCS_BIAR_RWY" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="BIAR" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="29000" />
+    <ControllerInfo>
+      <Line>Akureyri Tower</Line>
+      <Line>www.vatsim-scandinavia.org > Pilots > Airports > Iceland</Line>
+      <Line>feedback@vatsim-scandinavia.org</Line>
+    </ControllerInfo>
+  </Position>
+
 <Position Name="BIKF" Type="ASMGCS" ASMGCSAirport="BIKF" DefaultCenter="+635857.00-0223725.00" DefaultRange="3" MagneticVariation="-14" Rotation="104">
     <Maps>
       <Map Name="ASMGCS_BIKF_TWY" />

@@ -202,7 +202,10 @@
       <Map Name="GEO" />
       <Map Name="FAXI TMA" />
       <Map Name="KEF CTR" />
+      <Map Name="KEF Delegated" />
       <Map Name="Coast" />
+      <Map Name="MRVA" />
+      <Map Name="Heights" />
       <Map Name="KF_RWY10" />
       <Map Name="KF_RWY28" />
       <Map Name="KF_RWY01" />
@@ -233,7 +236,9 @@
       <Map Name="GEO" />
       <Map Name="FAXI TMA" />
       <Map Name="KEF CTR" />
+      <Map Name="KEF Delegated" />
       <Map Name="Coast" />
+      <Map Name="MRVA" />
       <Map Name="RK_RWY13" />
       <Map Name="RK_RWY31" />
       <Map Name="RK_RWY01" />
